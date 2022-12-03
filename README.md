@@ -24,12 +24,12 @@ In each brand manual cars have higher mean mileage_km than automtic car,main rea
 # Research question7: How diffirent car types affects car prices?
 There are specific car types that are much expensive than other car types
 # Arrangement from highest to lowest in price
-# 1. Coupe
-# 2. SUV
-# 3. Convertible
-# 4. Sedan
-# 5. station wagon
-# 6. minivian
-# 7. compact
-# 8. city cars
-# 9. small cars
+1. Coupe
+2. SUV
+3. Convertible
+4. Sedan
+5. station wagon
+6. minivian
+7. compact
+8. city cars
+9. small cars
