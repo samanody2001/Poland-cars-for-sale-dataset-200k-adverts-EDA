@@ -1,6 +1,6 @@
 # Data_engin_project
 Team memberes:
-Youssef amr rlsamanoudi 2000986
+Youssef amr elsamanoudi 2000986
 karim emad 2000859
 Abderlrahman mamdouh 2005529
 In this project,we tried to gain hidden aqnd useful insights from the data by asking research questions that we want answers for them or to validate them
