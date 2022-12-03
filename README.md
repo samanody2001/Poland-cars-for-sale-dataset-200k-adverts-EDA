@@ -21,3 +21,15 @@ Yes,in each brand,their are colours that are more expensive than other colours,s
 Diffirent fuel type leads to diffirent C02_emission,the graph shows how each fuel type in each brand affects the co2_emmisions
 # Research_question6:Is there relation between mileage_km and transmission type for each brand?
 In each brand manual cars have higher mean mileage_km than automtic car,main reason because most old cars are manual ,and offcourse the older the car ,the more mileage_km consumed
+# Research question7: How diffirent car types affects car prices?
+There are specific car types that are much expensive than other car types
+# Arrangement from highest to lowest in price
+# 1. Coupe
+# 2. SUV
+# 3. Convertible
+# 4. Sedan
+# 5. station wagon
+# 6. minivian
+# 7. compact
+# 8. city cars
+# 9. small cars
