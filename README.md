@@ -3,7 +3,7 @@ Team memberes:
 Youssef amr elsamanoudi 2000986
 karim emad 2000859
 Abderlrahman mamdouh 2005529
-In this project,we tried to gain hidden aqnd useful insights from the data by asking research questions that we want answers for them or to validate them
+In this project,we tried to gain hidden and useful insights from the data by asking research questions that we want answers for them or to validate them
 In this milestone,we first explored data with diffirent techniques including (.unqiue,.info,.null,.value_counts,and more) to explore unique values,data types,null values,percentage of null values,also we used multiple graphs types as pie chart,barplot chart,bubble chart,histogram distribution,boxplot,We droped the columns that their values are 30% or more and saved to another dataframe so we dont lose the original dataframes and these columns,then
 we start to impute null values based on every coloumn type,for example doors number we used mode operation,however with displacement and power_hp null values
 we used the mean of each them based on the vehicle brand,before we impute any coloumn null values,we first removed outliers using Z-score and IQR techniques,also we used heatmap to discover correlations between variables and each other
